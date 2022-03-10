@@ -5,12 +5,13 @@ body {
     display: flex;
     justify-content: center;
 }
-p  {
+
+p {
     display: inner-flex;
     margin: auto 10px;
     font-size: 22px;
-    color: #303D42;
+    color: blue;
     border-radius: 6px;
     border: 1px solid lightblue;
     padding: 10px;
-  }
+}
